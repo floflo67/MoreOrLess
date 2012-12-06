@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MoreOrLess
+namespace MoreOrLessClasses
 {
     /// <summary>
     /// Class for the game in itself
@@ -144,7 +144,7 @@ namespace MoreOrLess
 
                     int numberLevel = CheckNumberEntered(Console.ReadLine());
 
-                    while (numberLevel < 1 && numberLevel > 3)
+                    while (numberLevel < 1 || numberLevel > 3)
                     {
                         Console.WriteLine("Error in the choice of level.");
                         Console.Write("Please enter a level between 1 and 3 : ");

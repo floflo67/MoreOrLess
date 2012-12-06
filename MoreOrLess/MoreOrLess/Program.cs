@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using MoreOrLessClasses;
 
-namespace MoreOrLess
+namespace MoreOrLessConsole
 {
     class Program
     {

@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}</ProjectGuid>
+    <ProjectGuid>{CE15A248-CF9E-46FF-9F02-F7147E054FD8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MoreOrLess</RootNamespace>
-    <AssemblyName>MoreOrLess</AssemblyName>
+    <RootNamespace>MoreOrLessClasses</RootNamespace>
+    <AssemblyName>MoreOrLessClasses</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

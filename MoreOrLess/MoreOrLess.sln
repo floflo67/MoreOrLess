@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOrLess", "MoreOrLess\MoreOrLess.csproj", "{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOrLessConsole", "MoreOrLess\MoreOrLessConsole.csproj", "{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOrLessClasses", "MoreOrLessClasses\MoreOrLessClasses.csproj", "{CE15A248-CF9E-46FF-9F02-F7147E054FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}.Debug|x86.Build.0 = Debug|x86
 		{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}.Release|x86.ActiveCfg = Release|x86
 		{0DEB6A78-B9EC-4B28-83F3-7ED7577F4898}.Release|x86.Build.0 = Release|x86
+		{CE15A248-CF9E-46FF-9F02-F7147E054FD8}.Debug|x86.ActiveCfg = Debug|x86
+		{CE15A248-CF9E-46FF-9F02-F7147E054FD8}.Debug|x86.Build.0 = Debug|x86
+		{CE15A248-CF9E-46FF-9F02-F7147E054FD8}.Release|x86.ActiveCfg = Release|x86
+		{CE15A248-CF9E-46FF-9F02-F7147E054FD8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

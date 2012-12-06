@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MoreOrLess
+namespace MoreOrLessClasses
 {
     /// <summary>
     /// Class managing the levels
